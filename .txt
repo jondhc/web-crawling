@@ -1,0 +1,757 @@
+
+
+
+
+
+
+Wikimedia Foundation
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wikimediafoundation.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				div.field-group.input-group {
+	margin-bottom: 1em;
+}			
+
+
+
+
+
+
+
+
+
+
+Skip to content
+Skip to navigation
+
+
+
+
+
+
+
+
+
+
+
+Wikimedia Foundation
+
+
+
+
+
+
+Imagine a world in which every single human being can freely share in the sum of all knowledge.
+
+
+
+
+
+
+
+
+Wikimedia Foundation
+
+
+
+
+
+
+
+
+Wikimedia Foundation
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Search
+
+Donate Now
+
+
+
+ 
+
+
+	MENU
+Our Work
+Research
+Advocacy
+Technology
+News
+Participate
+Support
+About
+
+
+
+
+Stell dir eine Welt vor, in der jeder einzelne Mensch frei an der Summe allen Wissens teilhaben kann.
+
+The non-profit Wikimedia Foundation provides the essential infrastructure for free knowledge. We host Wikipedia, the free online encyclopedia, created and edited by volunteers around the world, as well as many other vital community projects. We welcome anyone who shares our vision to join us in collecting and sharing knowledge that fully represents human diversity.
+
+
+
+
+
+
+
+
+
+
+
+Research
+
+
+We conduct our own research and partner with researchers worldwide to address change in society and technology.
+
+
+
+More about research
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technology
+
+
+From site reliability to machine learning, our open-source technology makes Wikipedia faster, more reliable, and more accessible worldwide.
+
+
+
+More about technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advocacy
+
+
+We fight to protect everyone’s right to access free and open knowledge.
+
+
+
+More about advocacy
+
+
+
+
+
+
+
+NEWS —  
+See what we have been up to
+
+
+
+
+
+
+Wikimedia Foundation joins the Global Network Initiative
+29 October 2018
+
+
+
+
+
+The Wikimedia Foundation is honored to join the Global Network Initiative (GNI) as an observer, an opportunity we hope will advance our efforts to champion freedom of expression and privacy for the Wikimedia community and beyond. GNI is a channel for collective action, advocating to governments and international institutions for policies and laws which promote….
+
+
+
+
+
+
+
+Women in Red is changing Wikipedia’s coverage of women, one article at a time
+18 October 2018
+
+
+
+
+
+The news that optical physicist Donna Strickland did not have a Wikipedia page before winning the Nobel Prize in Physics brought renewed attention to Women in Red, a long-standing volunteer effort to add more biographies about women to the encyclopedia. After the announcement, the Women in Red WikiProject had one of their best weeks ever,….
+
+
+
+
+
+
+
+
+
+Projects — 
+Collaborative projects are the core of the Wikimedia movement.
+
+					Our volunteers build tools, share photos, write articles, and are working to connect all the knowledge that exists.
+					
+
+See all projects
+
+
+
+
+
+
+
+
+
+
+
+Wikipedia
+Free encyclopedia written in 300 languages by volunteers around the world.
+
+
+
+
+
+
+
+
+
+
+
+
+Wikimedia Commons
+The world's largest free-to-use library of illustrations, photos, drawings, videos and music.
+
+
+
+
+
+
+
+
+
+			PARTICIPATE — 
+
+Wikimedians are heroes of free knowledge.
+
+
+
+
+
+ 
+
+
+			Emily Temple-Wood		
+
+				Editor since 2007, Wikimedia community			
+
+
+
+
+ 
+
+
+			Pranayraj Vangari		
+
+				Editor since 2013, Wikimedia community			
+
+
+
+
+ 
+
+
+			Christine Meyer		
+
+				Editor since 2007, Wikimedia community			
+
+
+
+
+
+
+Throughout history, knowledge has been controlled by a powerful few. Wikipedia needs knowledge from all languages and cultures. The internet has become the default for accessing information—women, people of color, and the global south remain underrepresented. We invite you to help correct history.
+
+
+			Join the movement		
+
+
+
+
+
+
+
+
+
+200,000+
+editors contribute to Wikimedia projects every month
+
+
+
+
+
+
+
+
+
+
+
+
+
+47+ million
+media files on Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+1+ billion
+unique devices access Wikimedia projects every month
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KEY INFORMATION — 
+Things to know
+
+
+
+Wikimedia projects belong to everyone
+
+You made it. It is yours to use. For free. That means you can use it, adapt it, or share what you find on Wikimedia sites. Just do not write your own bio, or copy/paste it into your homework.
+
+
+
+We respect your data
+
+We do not sell your email address or any of your personal information to third parties. More information about our privacy practices are available at the Wikimedia Foundation privacy policy, donor privacy policy, and data retention guidelines.
+
+
+
+People like you keep Wikipedia accurate
+
+Readers verify the facts. Articles are collaboratively created and edited by a community of volunteers using reliable sources, so no single person or company owns a Wikipedia article. The Wikimedia Foundation does not write or edit, but others can help.
+
+
+
+Not all wikis are Wikimedia
+
+The word “wiki” refers to a website built using collaborative editing software. Hundreds of organizations and projects with no affiliation with Wikipedia or the Wikimedia Foundation also use the term, including wikiHow and WikiEducator.
+ 
+Wikimedia has nothing to do with Wikileaks and never did. Although both use the term “wiki” in their name, they have always been completely separate and unaffiliated.
+
+
+
+
+
+
+
+
+
+
+
+Help us unlock the world’s knowledge.
+
+As a nonprofit, Wikipedia and our related free knowledge projects are powered primarily through donations.
+
+Donate
+
+
+
+
+
+
+Connect — 
+Stay up-to-date about the Wikimedia Foundation
+
+
+Get email updates
+
+Subscribe to news about ongoing projects and initiatives.
+
+
+
+Email address
+
+
+
+
+
+
+This mailing list is powered by MailChimp. The Wikimedia Foundation will handle your personal information in accordance with this site's privacy policy.						
+Subscribe
+
+
+
+
+Contact a human
+
+Questions about the Wikimedia Foundation or our projects? Get in touch with our team.
+
+
+
+Contact
+
+
+
+Follow
+
+
+
+
+
+
+
+
+
+					Facebook			
+
+
+
+
+
+
+					@Wikimedia			
+
+
+
+
+
+
+
+
+Photo credits
+
+
+
+ 
+
+
+
+								CEEMeeting2016_Armenia_Globe_26							
+
+AWang (WMF)
+CC-BY-SA 4.0
+
+
+
+
+ 
+
+
+
+								Wikimedia Conference 2017							
+
+Jason Krüger/Wikimedia Deutschland e.V.
+CC BY-SA 4.0
+
+
+
+
+ 
+
+
+
+								Papaul_Tshibamba-3							
+
+Victor Grigas
+CC BY SA 3.0
+
+
+
+
+ 
+
+
+
+								SOPA protest in Midtown NYC							
+
+Zachary McCune
+CC BY-SA 4.0
+
+
+
+
+ 
+
+
+
+								A history of all nations from the earliest times							
+
+Internet Archive Book Images
+Public domain
+
+
+
+
+ 
+
+
+
+								Wikipedia logo							
+
+Nohat; Paullusmagnus; Wikimedia
+CC-BY-SA 3.0
+
+
+
+
+ 
+
+
+
+								Optic Projection fig 89							
+
+McAllister
+Public domain
+
+
+
+
+ 
+
+
+
+								Wikimedia Commons logo - white							
+
+Reidab; User:Grunt; 3247
+Public domain
+
+
+
+
+ 
+
+
+
+								Emily Temple-Wood at Wikimania 2014							
+
+Victor Grigas/Wikimedia Foundation
+CC BY-SA 3.0
+
+
+
+
+ 
+
+
+
+								Pranayraj Vangari							
+
+Pranayraj Vangari
+CC BY-SA 4.0
+
+
+
+
+ 
+
+
+
+								Sesame Street Spaghetti Space Chase							
+
+Walter Lim from Singapore
+CC BY 2.0
+
+
+
+
+ 
+
+
+
+								Lighting through the ages							
+
+Maurice Dessertenne
+Public domain
+
+
+
+
+ 
+
+
+
+								Art+Feminism Wikipedia edit-a-thon							
+
+Jens Mohr
+CC BY-SA 3.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Wikimedia Foundation is the nonprofit organization that supports Wikipedia, the other Wikimedia free knowledge projects, and our mission of free knowledge for every single person.
+
+CareersContactPress 
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+
+Wikimedia projects
+WikipediaWikibooksWikiversityWikinewsWiktionaryWikisourceWikiquoteWikivoyageWikimedia CommonsWikidataWikispeciesMediaWiki 
+
+Movement affiliates
+
+Wikimedia Chapters
+Wikimedia Thematic Organizations
+Wikimedia User Groups
+ 
+
+
+
+
+Terms of Use
+Privacy Policy
+Disclaimers
+Cookie Statement
+
+
+			Except where otherwise noted, the content of this site is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported license. Powered by WordPress.com VIP. Automattic Privacy Notice.		
+
+
+
+
+
+
+var _paq = _paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//piwik.wikimedia.org/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '17']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+
+
+
+/* <![CDATA[ */
+var wmfoundation = {"ajax_url":"https:\/\/wikimediafoundation.org\/wp-admin\/admin-ajax.php"};
+var wmfrtl = {"enable":""};
+/* ]]> */
+
+
+
+
