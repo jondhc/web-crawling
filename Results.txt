@@ -1,0 +1,120 @@
+Diffbot
+"The TkWWW Robot: Beyond Browsing"
+the original
+definition of scutter on FOAF Project's wiki
+Web Archiving
+"Review of Web Crawlers with Specification and Working"
+An adaptive model for optimizing performance of an incremental web crawler
+Effective Web Crawling
+"The indexable web is more than 11.5 billion pages"
+1999Natur.400..107L
+"Efficient Crawling Through URL Ordering"
+"Crawling the Web: Discovery and Maintenance of a Large-Scale Web Data"
+Breadth-first crawling yields high-quality pages
+"Adaptive on-line page importance computation"
+"UbiCrawler: a scalable fully distributed Web crawler"
+"Do Your Worst to Make the Best: Paradoxical Effects in PageRank Incremental Computations"
+Algorithms and Models for the Web-Graph
+Crawling a Country: Better Strategies than Breadth-First for Web Page Ordering
+A Fast Community Based Algorithm for Generating Crawler Seeds Set
+"Crawling the Web"
+"Web-crawling reliability"
+ARACHNID: Adaptive Retrieval Agents Choosing Heuristic Neighborhoods for Information Discovery
+Adaptive Information Agents in Distributed Textual Environments
+Focused crawling: a new approach to topic-specific web resource discovery
+Finding what people want: Experiences with the WebCrawler
+Focused crawling using context graphs
+Web crawler middleware for search engine digital libraries: a case study for citeseerX
+The evolution of a crawling strategy for an academic document search engine: whitelists and blacklists
+"Synchronizing a database to improve freshness"
+Effective page refresh policies for web crawlers
+"Estimating frequency of change"
+Modeling and managing content changes in text databases
+A standard for robot exclusion
+Guidelines for robots writers
+Balancing volume, quality and freshness in Web crawling
+"Mercator: A Scalable, Extensible Web Crawler"
+the original
+"Self-similarity in the web"
+"Web crawling ethics revisited: Cost, privacy and denial of service"
+The anatomy of a large-scale hypertextual Web search engine
+Design and implementation of a high performance distributed web crawler
+Search Interfaces on the Web: Querying and Characterizing
+2005cs........3069N
+"DEQUE: Querying the Deep Web"
+"AJAX crawling: Guide for webmasters and developers"
+"A COMPREHENSIVE STUDY OF THE REGULATION AND BEHAVIOR OF WEB CRAWLERS.The crawlers or web spiders are software robots that handle trace files and browse hundreds of billions of pages found on the Web. Usually, this is determined by tracking the keywords that make the searches of search engine users, a factor that varies second by second: according to Moz, only  30% of searches performed on search engines like Google, Bing or Yahoo! corresponds generic words and phrases. The remaining 70% are usually random"
+"Web Crawler"
+"OutWit Hub - Find, grab and organize all kinds of data and media from online sources"
+"Create a Crawler – import.io Help Center"
+"ITA Labs Acquisition"
+"Crunch Base profile for import.io"
+Search Engines and Web Dynamics
+GM Crawl : Identifies and collects data from the internet
+The RBSE spider: balancing effective search against Web load
+SortSite Checks Browser Compatibility - Website Magazine
+See the issues of your website - Softpedia
+"About Swiftbot - Swiftype"
+Design and implementation of a distributed crawler and filtering processor
+"Tax takers send in the spiders"
+Archived
+"Xenon web crawling initiative: privacy impact assessment (PIA) summary"
+Archived
+"Parallel crawlers"
+Mining the Web
+news-please: A Generic News Crawler and Extractor
+"Web Crawling Project"
+A History of Search Engines
+A tutorial
+WIVET
+"Current Challenges in Web Crawling"
+"Intelligent Web Crawling"
+Guide: How to Make a Web Crawler in Under 50 Lines of Code (Python) - Saint
+
+4796298-7
+https://en.wikipedia.org/w/index.php?title=Web_crawler&oldid=866521501
+Donate to Wikipedia
+Wikidata item
+Afrikaans
+العربية
+Azərbaycanca
+Boarisch
+Català
+Čeština
+Cymraeg
+Deutsch
+Español
+Euskara
+فارسی
+Français
+한국어
+Հայերեն
+Italiano
+עברית
+Lietuvių
+Magyar
+Bahasa Melayu
+Nederlands
+Nedersaksies
+日本語
+Norsk
+Norsk nynorsk
+Олык марий
+Polski
+Português
+Română
+Русский
+Simple English
+Српски / srpski
+Suomi
+Svenska
+தமிழ்
+ไทย
+Türkçe
+Українська
+中文
+Edit links
+Privacy policy
+Developers
+Cookie statement
+
